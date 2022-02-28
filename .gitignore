@@ -1,0 +1,8 @@
+db.sqlite3
+*.json
+.idea
+.vscode
+__pycache__
+.pytest_cache
+*.pyc
+venv
